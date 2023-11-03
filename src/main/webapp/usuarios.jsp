@@ -5,9 +5,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Read and Delete</title>
+<title>Road of Dreams</title>
 <!-- Inclua o link para o Bootstrap via CDN -->
-<link rel="icon" type="image/x-icon" href="./icon/favicon.ico">
+<link rel="icon" type="image/x-icon" href="./img/airplane.ico">
 <link rel="stylesheet"
 	href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
@@ -16,7 +16,7 @@
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark text-light">
             <div class="container">
-                <a class="navbar-brand" href="#"><img src="" height="48px"/> </a>
+                <a class="navbar-brand" href="#"><img src="./img/airplane.ico" height="48px"/> </a>
                 <h5 style= "color:blue">Road of Dreams</h5> <p style= "color : orange">.</p>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -27,13 +27,13 @@
                             <a class="nav-link" href="./index.html">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="ReadController">Destinos</a>
+                            <a class="nav-link" href="ReadController">Usuários</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#sobre">Promoções</a>
+                            <a class="nav-link" href="#sobre"></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#contato">Contato</a>
+                            <a class="nav-link" href="#contato"></a>
                         </li>
                     </ul>
                 </div>

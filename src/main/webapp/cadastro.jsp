@@ -6,14 +6,14 @@
 <meta charset="UTF-8">
 <link rel="icon" type="image/x-icon" href="./icon/favicon.ico">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-<title>Create</title>
+<title>Road of Dreams</title>
 </head>
 <body>
     <!-- Cabeçalho -->
     <header>
         <nav class="navbar navbar-expand-lg navbar-dark  bg-dark text-light">
             <div class="container">
-                <a class="navbar-brand" href="#"><img src="" height="48px"/> </a>
+                <a class="navbar-brand" href="#"><img src="./img/airplane.ico" height="48px"/> </a>
                <h5 style= "color:blue">Road of Dreams</h5> <p style= "color : orange">.</p>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -24,13 +24,13 @@
                             <a class="nav-link" href="index.html">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="ReadController">Destinos</a>
+                            <a class="nav-link" href="ReadController">Usuários</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="sobre.html">Promoções</a>
+                            <a class="nav-link" href="sobre.html"></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="contato.html">Contato</a>
+                            <a class="nav-link" href="contato.html"></a>
                         </li>
                     </ul>
                 </div>
